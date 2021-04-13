@@ -33,7 +33,7 @@ Houston Bcycle has estimated calories burned and carbon offset for each trip bas
 <p align="center"><kbd><img width="700" height="auto" src="Images/benefits.PNG"></kbd><br>
 <br>
 
-<p align="center"><kbd><img width="300" height="auto" src="Images/ride.PNG"></kbd><br>                     
+<p align="center"><kbd><img width="1000" height="auto" src="Images/bikelane.PNG"></kbd><br>                     
 
 </body>
 </html>
