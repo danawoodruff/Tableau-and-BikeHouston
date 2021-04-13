@@ -4,9 +4,8 @@
 <body>
 <p>
 <h2>Houston Public Bicycle System Dashboard - with user interactivity</h2>
-The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/views/NYCBikeStations/Dashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link">NYC Bicycle Dashboard.</a><br>
-
-  
+The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/profile/dana.woodruff#!/vizhome/HouBCycle/HouBcycleStory?publish=yes">Houston Bcycle Dashboard.</a><br>
+ 
 <h3>Data</h3>
 Data is gratiously sourced from [Houston Bcycle](https://www.houstonbcycle.com/). They granted permission for use of their logo on my visualization dashboards and story.</a>
 
@@ -31,7 +30,7 @@ The user then explores the type of memberships are being used and how that has c
   
 Houston Bcycle has estimated calories burned and carbon offset for each trip based on location and duration.  these are points of interest on how cycling benefits the rider and the planet.
 <p align="center"><kbd><img width="600" height="auto" src="Images/benefits.PNG"></kbd>
-Users may view code at the following links:
+
 
 <h2>Let's ride!</h2>                       
 
