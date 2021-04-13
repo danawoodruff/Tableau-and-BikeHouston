@@ -1,13 +1,13 @@
 <html>
 
-<p align="left"><img width="600" height="auto" src="Images/HBC.png">          
+<p align="left"><img width="500" height="auto" src="Images/HBC.png">          
 <body>
 <p>
 <h2>Houston Public Bicycle System Dashboard - with user interactivity</h2>
 The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/profile/dana.woodruff#!/vizhome/HouBCycle/HouBcycleStory?publish=yes">Houston Bcycle Story.</a><br>
  
 <h3>Data</h3>
-Data is gratiously sourced from [Houston Bcycle](https://www.houstonbcycle.com/). They granted permission for use of their logo on my visualization dashboards and story.</a>
+Data is gratiously sourced from <a href="https://www.houstonbcycle.com/">Houston Bcycle.</a>. They granted permission for use of their logo on my visualization dashboards and story.</a>
 
 The data .csv file was read into Tableau after minor manipulation, e.g., columns deleted and maintenance trips deleted, to bring the file within the 100mb limit of Tableau Public. the data contains trip records for 2019 and 2020. data includes times, dates, duration, calories burned, and carbon offsets. User data include their zip codes, bike checkout kiosk and checkin kiosk.
 
