@@ -27,13 +27,13 @@ Ridership numbers are viewed along with the volume of riders per hour of day.  T
 <p align="center"><kbd><img width="700" height="auto" src="Images/time.PNG"></kbd><br>
 <br>
 The user then explores the type of memberships are being used and how that has changed between 2019 and 2020.  Data on the user's home state is visualized.
-<p align="center"><kbd><img width="500" height="auto" src="Images/ridership.PNG"></kbd><br>
+<p align="center"><kbd><img width="700" height="auto" src="Images/ridership.PNG"></kbd><br>
 <br>  
 Houston Bcycle has estimated calories burned and carbon offset for each trip based on location and duration.  these are points of interest on how cycling benefits the rider and the planet.
 <p align="center"><kbd><img width="700" height="auto" src="Images/benefits.PNG"></kbd><br>
 <br>
 
-<p align="center"><kbd><img width="400" height="auto" src="Images/ride.PNG"></kbd><br>                     
+<p align="center"><kbd><img width="300" height="auto" src="Images/ride.PNG"></kbd><br>                     
 
 </body>
 </html>
