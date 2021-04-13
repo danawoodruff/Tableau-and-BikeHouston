@@ -17,6 +17,7 @@ The data .csv file was read into Tableau after minor manipulation, e.g., columns
 Ten worksheets each have a visualization. The visualizations are brought together on five dashboards which are then presented as a story.  The main filter serves to retrieve data for each year. The story captions summarize each dashboard and guide the user through the dashboards.
 <br>
 The user is introduced to houston Bcycle with a map of stations.  Station size and color is determined by its bicycle checkout count.<br>
+<br>
 <p align="center"><kbd><img width="700" height="auto" src="Images/map.PNG"></kbd><br>
 <br>
 Next the user explores the most popular stations and the relationship between one way and roundtrips.  The user can select one or both years.
