@@ -4,7 +4,7 @@
 <body>
 <p>
 <h2>Houston Public Bicycle System Dashboard - with user interactivity</h2>
-The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/profile/dana.woodruff#!/vizhome/HouBCycle/HouBcycleStory?publish=yes">Houston Bcycle Dashboard.</a><br>
+The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/profile/dana.woodruff#!/vizhome/HouBCycle/HouBcycleStory?publish=yes">Houston Bcycle Story.</a><br>
  
 <h3>Data</h3>
 Data is gratiously sourced from [Houston Bcycle](https://www.houstonbcycle.com/). They granted permission for use of their logo on my visualization dashboards and story.</a>
