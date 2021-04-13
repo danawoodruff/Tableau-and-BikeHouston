@@ -7,7 +7,7 @@
 The project provides a visualization of the Houston Public Bicycle System data utilizing Tableau Public, Mapbox, and deployed utilizing Tableau Public at: <a href="https://public.tableau.com/profile/dana.woodruff#!/vizhome/HouBCycle/HouBcycleStory?publish=yes">Houston Bcycle Story.</a><br>
  
 <h3>Data</h3>
-Data is gratiously sourced from <a href="https://www.houstonbcycle.com/">Houston Bcycle.</a>. Houston Bcycle also granted permission for use of their logo on the visualization dashboards and story.
+Data is gratiously sourced from <a href="https://www.houstonbcycle.com/">Houston Bcycle.</a>. Houston Bcycle also granted permission for use of their logo on the visualization dashboards and story.<br>
 <br>
 The data .csv file was read into Tableau after minor manipulation, e.g., columns deleted and maintenance trips deleted, to bring the file within the 100mb limit of Tableau Public. the data contains trip records for 2019 and 2020. data includes times, dates, duration, calories burned, and carbon offsets. User data include their zip codes, bike checkout kiosk and checkin kiosk.<br>
 <br>
@@ -16,7 +16,7 @@ The data .csv file was read into Tableau after minor manipulation, e.g., columns
 <h3>Dashboards and Story</h3>
 Ten worksheets each have a visualization. The visualizations are brought together on five dashboards which are then presented as a story.  The main filter serves to retrieve data for each year. The story captions summarize each dashboard and guide the user through the dashboards.
 <br>
-The user is introduced to houston Bcycle with a map of stations.  Station size and color is determined by its bicycle checkout count.
+The user is introduced to houston Bcycle with a map of stations.  Station size and color is determined by its bicycle checkout count.<br>
 <p align="center"><kbd><img width="700" height="auto" src="Images/map.PNG"></kbd><br>
 <br>
 Next the user explores the most popular stations and the relationship between one way and roundtrips.  The user can select one or both years.
